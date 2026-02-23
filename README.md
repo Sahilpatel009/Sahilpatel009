@@ -25,13 +25,3 @@ Feel free to connect via email at "sahil.work069@gmail.com" Let's collaborate an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilpatel009&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br />
-
-<div align="center">
-  <h3>💻 My Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,flutter,git,github,vscode&theme=dark" alt="Sahil's Tech Stack" />
-</div>
-
-
-
-
