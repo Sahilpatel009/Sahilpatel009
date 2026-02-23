@@ -12,9 +12,10 @@ I'm an aspiring Full Stack Web Developer and creator, passionate about building 
 
 📫 **Let's Connect:**
 * **Email:** [sahil.work069@gmail.com](mailto:sahil.work069@gmail.com)
-* **YouTube:** [ten80px](https://youtube.com/@ten80px?si=pQh1ZyZF0yWQd6gV)
-* **Instagram:** [@ten80px](https://www.instagram.com/ten80px?igsh=MXJqdmNiN2h4dmVsbw==)
+* **YouTube:** [ten80px](https://youtube.com/@ten80px)
+* **Instagram:** [@ten80px](https://instagram.com/ten80px)
 * **LinkedIn:** [Sahil Patel](https://www.linkedin.com/in/sahil4518)
+* **X (Twitter):** [@SahilPatel4518](https://x.com/SahilPatel4518)
 
 Feel free to connect via email at "sahil.work069@gmail.com" Let's collaborate and create something amazing! 😊🚀
 
