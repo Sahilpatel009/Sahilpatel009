@@ -17,9 +17,21 @@ I'm an aspiring Full Stack Web Developer and creator, passionate about building 
 * **LinkedIn:** [Sahil Patel](https://www.linkedin.com/in/sahil4518)
 
 Feel free to connect via email at "sahil.work069@gmail.com" Let's collaborate and create something amazing! 😊🚀
+
+
+
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilpatel009&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpatel009&layout=compact&theme=radical" alt="Top Languages" />
+  <h3>🔥 My Coding Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilpatel009&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br />
+
+<div align="center">
+  <h3>💻 My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,flutter,git,github,vscode&theme=dark" alt="Sahil's Tech Stack" />
+</div>
+
+
+
+
