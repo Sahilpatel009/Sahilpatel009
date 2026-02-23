@@ -22,4 +22,4 @@ I'm an aspiring developer and creator, passionate about building responsive webs
 * **Instagram:** [@ten80px](https://www.instagram.com/ten80px?igsh=MXJqdmNiN2h4dmVsbw==)
 * **LinkedIn:** [Sahil Patel](https://www.linkedin.com/in/sahil4518)
 
-Let's collaborate and create something amazing! 😊🚀
+Feel free to connect via email at "sahil.work069@gmail.com" Let's collaborate and create something amazing! 😊🚀
