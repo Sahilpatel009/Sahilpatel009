@@ -6,10 +6,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Web+Developer+🌐;Content+Creator+at+ten80px+🎥;Building+Responsive+UIs+💻;Always+eager+to+learn!+🚀" alt="Typing SVG" />
 
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilpatel009&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 
 "Code, Create, and Conquer." 🎯
@@ -41,8 +37,7 @@ Feel free to connect via email at "sahil.work069@gmail.com" Let's collaborate an
 <div align="center">
   <h3>🔥 My Coding Streak</h3>
   <img src="https://streak-stats.demolab.com/?user=Sahilpatel009&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div> 
-### 🐍 My Contribution Graph
+</div> </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sahilpatel009/Sahilpatel009/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://komarev.com/ghpvc/?username=Sahilpatel009&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
