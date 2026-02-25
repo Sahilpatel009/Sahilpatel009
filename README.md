@@ -1,11 +1,13 @@
 # 👋 Welcome to my profile! I'm Sahil Patel
 
 
-
 <div align="left">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Web+Developer+🌐;Content+Creator+at+ten80px+🎥;Building+Responsive+UIs+💻;Always+eager+to+learn!+🚀" alt="Typing SVG" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Web+Developer+🌐;Content+Creator+at+ten80px+🎥;Building+Responsive+UIs+💻;Always+eager+to+learn!+🚀" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F2328&width=435&lines=Full+Stack+Web+Developer+🌐;Content+Creator+at+ten80px+🎥;Building+Responsive+UIs+💻;Always+eager+to+learn!+🚀" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F2328&width=435&lines=Full+Stack+Web+Developer+🌐;Content+Creator+at+ten80px+🎥;Building+Responsive+UIs+💻;Always+eager+to+learn!+🚀" />
+  </picture>
+</div>
 
 
 "Code, Create, and Conquer." 🎯
