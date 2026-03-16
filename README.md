@@ -10,7 +10,7 @@
 </div>
 
 
-"Code, Create, and Conquer." 🎯
+Code, Create, and Conquer. 🎯
 
 
 
