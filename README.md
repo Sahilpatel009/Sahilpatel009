@@ -14,7 +14,7 @@ Code, Create, and Conquer. 🎯
 
 
 
-I'm Full Stack Web Developer and creator, passionate about building responsive websites and cross-platform apps. Always eager to learn and build cool things!
+I'm Full Stack Web Developer and Creator, passionate about building responsive websites and cross-platform apps. Always eager to learn and build cool things!
 
 
 
